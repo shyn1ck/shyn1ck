@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm Parvizjon Hasanov, a passionate software devel
 - 🌱 I’m currently working on a **mobile app for public transportation tracking in Dushanbe**.
 - 🤝 I’m looking to collaborate on **Golang**, **C#**, and **Kotlin** projects.
 - 💬 Ask me about **Golang**, **C#**, **Kotlin**, **Postgres**, **MySQL**, **REDIS**, and anything related to **backend development**.
-- ⚡ Fun fact: I can write code faster than you can say "debug"! 😉
 
 ## 🛠️ Technologies & Tools
 
