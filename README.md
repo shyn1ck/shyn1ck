@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Parvizjon Hasanov, a passionate software devel
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
