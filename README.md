@@ -10,7 +10,7 @@
 Welcome to my GitHub profile! I'm Parvizjon Hasanov, a passionate software developer with a deep love for clean code, innovative projects, and continuous learning. I specialize in backend development and I'm always eager to explore new technologies.
 
 ## 🚀 About Me
-- 🌱 I’m currently working on a **I’m currently working on a job vacancy website called TajikCareerHub**.
+- 🌱 **I’m currently working on a job vacancy website called TajikCareerHub**.
 - 🤝 I’m looking to collaborate on **Golang** projects.
 - 💬 Ask me about **Golang**, **C#**, **Kotlin**, **Postgres**, **MySQL**, and anything related to **backend development**.
 
