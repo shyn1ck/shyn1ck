@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parvizjon-hasanov-a06756321/)](https://www.linkedin.com/in/parvizjon-hasanov-a06756321/)
 [![Twitter](https://img.shields.io/twitter/follow/hy_parvizjon?style=social)](https://x.com/hy_parvizjon)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/parvizjon_hasanov/)](https://www.instagram.com/parvizjon_hasanov/)
-[![Telegram Channel](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/GolangTajikistan)
-[![VK](https://img.shields.io/badge/-VK-4680C2?style=flat-square&logo=vk&logoColor=white)](https://vk.com/parvizjon_hasanov)
 
 Welcome to my GitHub profile! I'm Parvizjon Hasanov, a passionate software developer with a deep love for clean code, innovative projects, and continuous learning. I specialize in backend development and I'm always eager to explore new technologies.
 
