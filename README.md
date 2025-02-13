@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm Parvizjon Hasanov, a passionate software devel
 - LinkedIn: [Parvizjon Hasanov](https://www.linkedin.com/in/parvizjon-hasanov-a06756321/)
 - Twitter (X): [@hy_parvizjon](https://x.com/hy_parvizjon)
 - Instagram: [parvizjon_hasanov](https://www.instagram.com/parvizjon_hasanov/)
-- Telegram Channel: [Golang Tajikistan](https://t.me/GolangTajikistan)
+- Telegram Channel: [shyn1ck](https://t.me/shyn1ck007)
 - GitHub: [shyn1ck](https://github.com/shyn1ck)
 - VK: [Parvizjon Hasanov](https://vk.com/parvizjon_hasanov)
 
