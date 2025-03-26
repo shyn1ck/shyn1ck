@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Parvizjon Hasanov
 
 [![GitHub followers](https://img.shields.io/github/followers/shyn1ck?label=Follow&style=social)](https://github.com/shyn1ck)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parvizjon-hasanov-a06756321/)](https://www.linkedin.com/in/parvizjon-hasanov-a06756321/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parvizjon-hasanov/)](https://www.linkedin.com/in/parvizjon-hasanov-a06756321/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fhy_parvizjon)](https://x.com/hy_parvizjon)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/parvizjon_hasanov/)](https://www.instagram.com/parvizjon_hasanov/)
 
