@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parvizjon-hasanov/)](https://www.linkedin.com/in/parvizjon-hasanov-a06756321/)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fx.com%2Fhy_parvizjon)](https://x.com/hy_parvizjon)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/parvizjon_hasanov/)](https://www.instagram.com/parvizjon_hasanov/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-330F63?style=flat-square&logo=gitlab)](https://gitlab.com/shyn1ck/my-portfolio)
 
 Welcome to my GitHub profile! I'm Parvizjon Hasanov, a passionate software developer with a deep love for clean code, innovative projects, and continuous learning. I specialize in backend development and I'm always eager to explore new technologies.
 
