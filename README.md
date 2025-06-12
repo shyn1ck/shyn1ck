@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Parvizjon Hasanov, a passionate software devel
 ## 🚀 About Me
 - 👋 Hi, I'm Parvizjon, a passionate backend developer with experience in building robust and scalable applications.
 - 🤝 I’m looking to collaborate on **Golang** projects, open to **backend development** opportunities.
-- 💬 Ask me about **Golang**, **Python**, **Django**, **C#**, **Kotlin**, **Postgres**, **MySQL**, and anything related to **backend development**.
+- 💬 Ask me about **Golang**, **Python**, **Kotlin**, **Postgres**, **MySQL**, and anything related to **backend development**.
 - 🌱 Currently improving my skills in **cloud technologies** and **microservices architecture**.
 - ⚡ Fun fact: I love solving complex problems and always looking for ways to optimize code.
 
@@ -19,8 +19,6 @@ Welcome to my GitHub profile! I'm Parvizjon Hasanov, a passionate software devel
 
 ![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
