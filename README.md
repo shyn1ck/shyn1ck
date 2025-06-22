@@ -21,7 +21,7 @@ Backend developer focused on Golang, microservices, and clean architecture. I en
 
 ### 🔍 Currently
 
-- 🚀 Looking for Golang backend developer roles or Ausbildung (Germany 🇩🇪)
+- 🚀 Looking for Golang backend developer roles
 - ☁️ Learning cloud platforms & microservices design
 - 🛠 Building reliable tools and writing clean, efficient code
 
