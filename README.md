@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-shyn1ck-black?style=flat-square&logo=github)](https://github.com/shyn1ck)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parvizjon-hasanov-a06756321/)
 [![Telegram](https://img.shields.io/badge/Telegram-shyn1ck007-2CA5E0?style=flat-square&logo=telegram)](https://t.me/shyn1ck007)
-[![WakaTime](https://wakatime.com/badge/user/9f5f0c1e-6e0e-4a7a-8a0e-1b1e1b1e1b1e.svg?style=flat-square)](https://wakatime.com/@shyn1ck)
+[![WakaTime](https://wakatime.com/badge/user/9f5f0c1e-6e0e-4a7a-8a0e-1b1e1b1e1b1e.svg)](https://wakatime.com/@shyn1ck)
 
 Backend developer focused on Golang, microservices, and clean architecture. I enjoy building scalable systems and solving complex backend challenges.
 
@@ -20,19 +20,17 @@ Backend developer focused on Golang, microservices, and clean architecture. I en
 
 ---
 
-### ⏳ Weekly Development Breakdown
-<!-- WakaTime Stats -->
-[![📊 Weekly Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shyn1ck&layout=compact&theme=radical&hide_border=true&range=last_7_days)](https://wakatime.com/@shyn1ck)
+### ⏳ WakaTime Stats
 
-[![👨‍💻 Coding Time](https://wakatime.com/share/@shyn1ck/6f8e8e8e-8e8e-8e8e-8e8e-8e8e8e8e8e8e.svg)](https://wakatime.com/@shyn1ck)
-[![🌐 Languages](https://wakatime.com/share/@shyn1ck/8e8e8e8e-8e8e-8e8e-8e8e-8e8e8e8e8e8e.svg)](https://wakatime.com/@shyn1ck)
-[![💻 Editors](https://wakatime.com/share/@shyn1ck/8e8e8e8e-8e8e-8e8e-8e8e-8e8e8e8e8e8e.svg)](https://wakatime.com/@shyn1ck)
+[![Coding Activity](https://wakatime.com/share/@shyn1ck/8418f739-c52f-4df1-836d-8668686c1d38.svg)](https://wakatime.com/@shyn1ck)
+[![Top Languages](https://wakatime.com/share/@shyn1ck/1835ff2d-02c7-4d4a-91a3-dc828d41c7a8.svg)](https://wakatime.com/@shyn1ck)
+[![Editors](https://wakatime.com/share/@shyn1ck/e999e494-6a25-4d34-85c8-134058fd15e1.svg)](https://wakatime.com/@shyn1ck)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shyn1ck&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shyn1ck&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyn1ck&layout=compact&theme=radical&hide_border=true)
 
 ---
