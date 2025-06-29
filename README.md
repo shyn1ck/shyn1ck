@@ -42,5 +42,5 @@
   </div>
 
   <br/>
-  <img src="https://github.com/shyn1ck/shyn1ck/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/shyn1ck/shyn1ck/blob/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
