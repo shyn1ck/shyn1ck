@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-shyn1ck-black?style=flat-square&logo=github)](https://github.com/shyn1ck)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parvizjon-hasanov-a06756321/)
 [![Telegram](https://img.shields.io/badge/Telegram-shyn1ck007-2CA5E0?style=flat-square&logo=telegram)](https://t.me/shyn1ck007)
-[![WakaTime](https://wakatime.com/badge/shyn1ck/9f5f0c1e-6e0e-4a7a-8a0e-1b1e1b1e1b1e.svg)](https://wakatime.com/@shyn1ck)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@shyn1ck)
 
 Backend developer focused on Golang, microservices, and clean architecture. I enjoy building scalable systems and solving complex backend challenges.
 
