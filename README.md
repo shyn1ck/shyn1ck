@@ -42,14 +42,7 @@
   </div>
 
   <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" height="8" alt="divider">
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=shyn1ck&style=flat-square&color=blue" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/shyn1ck?label=Followers&style=social" alt="GitHub Followers"/>
-  </div>
-
   <img src="https://github.com/shyn1ck/shyn1ck/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
 </div>
 
 <style>
