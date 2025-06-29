@@ -20,20 +20,22 @@ Backend developer focused on Golang, microservices, and clean architecture. I en
 
 ---
 
-### ⏳ WakaTime Stats
-
-[![Coding Activity](https://wakatime.com/share/@shyn1ck/8418f739-c52f-4df1-836d-8668686c1d38.svg)](https://wakatime.com/@shyn1ck)
-[![Top Languages](https://wakatime.com/share/@shyn1ck/1835ff2d-02c7-4d4a-91a3-dc828d41c7a8.svg)](https://wakatime.com/@shyn1ck)
-[![Editors](https://wakatime.com/share/@shyn1ck/e999e494-6a25-4d34-85c8-134058fd15e1.svg)](https://wakatime.com/@shyn1ck)
-
----
-
 ### 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shyn1ck&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyn1ck&layout=compact&theme=radical&hide_border=true)
 
 ---
+
+---
+
+### ⏳ WakaTime Stats
+
+[![Coding Activity](https://wakatime.com/share/@shyn1ck/8418f739-c52f-4df1-836d-8668686c1d38.svg)](https://wakatime.com/@shyn1ck)
+[![Top Languages](https://wakatime.com/share/@shyn1ck/1835ff2d-02c7-4d4a-91a3-dc828d41c7a8.svg)](https://wakatime.com/@shyn1ck)
+[![Editors](https://wakatime.com/share/@shyn1ck/e999e494-6a25-4d34-85c8-134058fd15e1.svg)](https://wakatime.com/@shyn1ck)
+
+
 
 ### 📬 Contact
 
