@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=🚀+Hi+there%2C+I%27m+Parvizjon+Hasanov+%28shyn1ck%29;💻+Full-Stack+Developer+%7C+Tech+Enthusiast;🚀+Building+scalable+backends+%26+sleek+frontends" alt="Greeting message" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=🚀+Hi+there%2C+I%27m+Parvizjon+Hasanov+%28shyn1ck%29;💻+Full-Stack+Developer+%7C+Tech+Enthusiast;🚀+Building+scalable+backends+%26+sleek+frontends" alt="Greeting message" />
 
   <div align="center">
     <a href="https://github.com/shyn1ck">
