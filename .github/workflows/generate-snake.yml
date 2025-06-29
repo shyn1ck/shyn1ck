@@ -17,6 +17,7 @@ jobs:
       - name: Push changes
         uses: EndBug/add-and-commit@v9
         with:
-          branch: output
+          branch: main
           add: dist/github-contribution-grid-snake.svg
-          message: "Generate Snake"
+          message: "Update snake animation"
+          create_branch: false
