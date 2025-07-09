@@ -31,7 +31,6 @@
   <br/>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shyn1ck&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyn1ck&theme=radical&hide_border=true" alt="GitHub Streak" />
   </div>
 
 <h3>⏱️ My Coding Activity</h3>
