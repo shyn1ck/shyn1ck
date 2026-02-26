@@ -29,9 +29,6 @@
   </div>
 
   <br/>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=shyn1ck&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  </div>
 
 <h3>⏱️ My Coding Activity</h3>
   <div align="center">
