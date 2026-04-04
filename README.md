@@ -8,7 +8,7 @@
     <a href="https://www.linkedin.com/in/parvizjon-hasanov-a06756321/">
       <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
     </a>
-    <a href="https://t.me/shyn1ck007">
+    <a href="https://t.me/shyn1ck">
       <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" height="40" alt="Telegram"/>
     </a>
   </div>
