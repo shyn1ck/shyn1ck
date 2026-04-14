@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=🚀+Hi+there%2C+I%27m+Parvizjon+Hasanov+%28shyn1ck%29;💻+Backend+%26+Infrastructure+Engineer+%28Go%29;🏗️+Building+High-Load+Microservices+%281000%2B+RPS%29;⚡+Go+%26+TypeScript+Enthusiast" alt="Greeting message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=🚀+Hi+there%2C+I%27m+Parvizjon+Hasanov+%28shyn1ck%29;💻+Backend+%26+Infrastructure+Engineer+%28Go%29;🏗️+Building+High-Load+Microservices;⚡+Go+%26+TypeScript+Enthusiast" alt="Greeting message" />
 
   <div align="center">
     <a href="https://github.com/shyn1ck">
@@ -18,12 +18,11 @@
   
   <h3>👨‍💻 About My Code & Activity</h3>
   <p align="center">
-    <i>Most of my daily work (4,000+ contributions) is under strict NDA in private repositories, building enterprise banking infrastructure and high-load microservices (20+ services).</i>
+    <i>Most of my daily work is under strict NDA in private repositories, building enterprise banking infrastructure and high-load microservices.</i>
   </p>
   <p align="center">
     <b>Backend Architecture:</b> Golang, gRPC, REST, WebSocket<br>
-    <b>Data & Messaging:</b> PostgreSQL, Redis, NATS<br>
-    <b>Performance:</b> Optimizing systems to handle 1000+ RPS smoothly
+    <b>Data & Messaging:</b> PostgreSQL, Redis, NATS
   </p>
   <p align="center">
     🚀 <i>Passionate about Web3 infrastructure and actively exploring open-source decentralized ecosystems.</i>
@@ -34,7 +33,7 @@
   <h3>🛠️ Core Tech Stack</h3>
 
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=go,ts,js,react,python,kotlin,postgres,docker,kubernetes,linux&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=go,ts,js,react,python,kotlin,postgres,docker,linux&theme=dark" alt="Tech Stack" />
   </p>
 
   <br/>
