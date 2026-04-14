@@ -18,7 +18,7 @@
   
   <h3>👨‍💻 About My Code & Activity</h3>
   <p align="center">
-    <i>Most of my daily work is under strict NDA in private repositories, building enterprise banking infrastructure and high-load microservices.</i>
+    <i>Building enterprise banking infrastructure and high-load microservices.</i>
   </p>
   <p align="center">
     <b>Backend Architecture:</b> Golang, gRPC, REST, WebSocket<br>
