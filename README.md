@@ -3,13 +3,15 @@
 
   <div align="center">
     <a href="https://github.com/shyn1ck">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
+    &nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/parvizjon-hasanov-a06756321/">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    &nbsp;&nbsp;
     <a href="https://t.me/shyn1ck">
-      <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" height="40" alt="Telegram"/>
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
   </div>
 
